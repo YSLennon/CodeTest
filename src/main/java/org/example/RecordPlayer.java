@@ -6,7 +6,7 @@ public class RecordPlayer {
         Solution solution = new Solution();
         String time = "13:14";
         String[] commands = {"next", "prev"};
-        solution.solution("34:33"	,"13:00"	,"00:55"	,"02:55",commands);
+        System.out.println(solution.solution("34:33"	,"13:00"	,"00:55"	,"02:55",commands));
     }
 }
 
