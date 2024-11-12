@@ -1,3 +1,5 @@
+package org.example;
+
 public class AnalogClock {
 
     public static void main(String[] args) {
