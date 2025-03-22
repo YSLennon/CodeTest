@@ -1,4 +1,4 @@
-package org.example;
+package pccp;
 
 // [PCCP 기출문제] 1번 / 동영상 재생기
 public class RecordPlayer {
